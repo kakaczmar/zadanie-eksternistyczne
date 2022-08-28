@@ -4,9 +4,9 @@
 
 ### Co jest celem projektu
 
-Celem projektu jest przygotowanie prostego narzędzia do raportowania czasu pracy spędzonego w projektach przez pracowników danego zespołu.
+*Celem projektu jest przygotowanie prostego narzędzia do raportowania czasu pracy spędzonego w projektach przez pracowników danego zespołu.
 Dane wejściowe zawierają zarejestrowane godziny, które znajdują się w plikach o rozszerzeniu .xls
-Program generuje raporty, które są wyświetlane w konsoli. Mogą być także eksportowane do pliku exel.
+Program generuje raporty, które są wyświetlane w konsoli. Mogą być także eksportowane do pliku exel.*
 
 ### Uruchomianie aplikacji
 
