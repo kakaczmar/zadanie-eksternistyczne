@@ -10,12 +10,12 @@ Program generuje raporty, które są wyświetlane w konsoli. Mogą być także e
 
 ### 2. Uruchomianie aplikacji
 
-#### + Uruchomienie przez GUI
+####+ Uruchomienie przez GUI
 
 Należy otworzyć GUI, wczytać główny folder z plikami, a następnie zbudować projekt i uruchomić aplikację "App.jar"
 Następnie należy wykonywać polecenia z konsoli **target/classes/2012**
 
-#### + Uruchomienie przez wiersz poleceń
+####+ Uruchomienie przez wiersz poleceń
 
 Aby uruchomić aplikację należy wpisać:
 > C:\Java\jdk-17.0.1\bin\java.exe -Dfile.encoding=UTF-8 -jar "ścieżka do aplikacji na dysku\App\App.jar"
