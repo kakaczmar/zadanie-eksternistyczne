@@ -17,10 +17,17 @@ Następnie należy wykonywać polecenia z konsoli **target/classes/2012**
 
 #### Uruchomienie przez wiersz poleceń
 
-Aby uruchomić aplikację należy wpisać: C:\Java\jdk-17.0.1\bin\java.exe -Dfile.encoding=UTF-8 -jar "ścieżka do aplikacji na dysku\App\App.jar"
+Aby uruchomić aplikację należy wpisać:
+> C:\Java\jdk-17.0.1\bin\java.exe -Dfile.encoding=UTF-8 -jar "ścieżka do aplikacji na dysku\App\App.jar"
+
 Następnie należy wpisać ścieżkę do pliku, w którym znajdują się dane w celu wygenerowania raportu.
 
 ### Interfejs programu
 
 Po wczytaniu danych program wyświetla ilość podczytanych plików np.: 
 > Found 3 excel files
+
+Następnie plik wczytuje trzy tabele danych:
+1. ranking pracownikow wg przepracowanych godzin we wszystkich projektach
+2. ranking miesięcy wg przepracowanych godzin we wszystkich projektach przez wszystkich pracowników.
+3. ranking 10-ciu najbardziej pracowitych dni wg przepracowanych godzin we wszystkich projektach przez wszystkich pracowników.
